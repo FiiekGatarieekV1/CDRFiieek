@@ -1,3 +1,3 @@
 ##Projek Spanduk/Banner 1
 
-![Preview Desain](https://github.com/FiiekGatarieekV1/CDRFiieek/raw/main/HasilGambar.jpg)
+![Preview Desain](https://github.com/FiiekGatarieekV1/CDRFiieek/raw/main/Gambar.jpg)
